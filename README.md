@@ -1,2 +1,2 @@
 # learningGo
- Projects i have done while learning Go
+ Projects I have done while learning Go
